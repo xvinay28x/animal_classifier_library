@@ -1,0 +1,7 @@
+README.md
+setup.py
+animal_classifier.egg-info/PKG-INFO
+animal_classifier.egg-info/SOURCES.txt
+animal_classifier.egg-info/dependency_links.txt
+animal_classifier.egg-info/requires.txt
+animal_classifier.egg-info/top_level.txt
