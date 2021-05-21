@@ -12,10 +12,10 @@ Support for more animals will be added soon.
 
 It take the image path and classify, if it is cat then answer is 0 else 1 for dog.
  ```python 
-import cat_dog_classifier
+import animal-classifier
 
 image_path = "C:\Users\xvinay28x\Desktop\dog.jpg"
-result = cat_dog_classifier.classify(image_path)
+result = animal-classifier.classify(image_path)
 if result ==  1:
     print("It is Dog")
 else:

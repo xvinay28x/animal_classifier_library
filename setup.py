@@ -5,7 +5,7 @@ with open("README.md","r")as fh:
 
 setup(
     name="animal-classifier",
-    version="1.0.2",
+    version="1.0.3",
     description="It classify the cat or dog images",
     long_description=long_description,
     long_description_content_type='text/markdown',

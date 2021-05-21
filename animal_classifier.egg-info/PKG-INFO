@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: animal-classifier
-Version: 1.0.2
+Version: 1.0.3
 Summary: It classify the cat or dog images
 Home-page: https://github.com/xvinay28x/animal_classifier_library
 Author: Vinay Garg
@@ -20,10 +20,10 @@ Description: # animal-classifier
         
         It take the image path and classify, if it is cat then answer is 0 else 1 for dog.
          ```python 
-        import cat_dog_classifier
+        import animal-classifier
         
         image_path = "C:\Users\xvinay28x\Desktop\dog.jpg"
-        result = cat_dog_classifier.classify(image_path)
+        result = animal-classifier.classify(image_path)
         if result ==  1:
             print("It is Dog")
         else:
